@@ -6,3 +6,12 @@ Copy and paste your code from these exercises into this file.
 
 
 * 1.3
+
+
+* 1.4
+
+
+* 1.5
+
+
+* Extra (If you did either one)
