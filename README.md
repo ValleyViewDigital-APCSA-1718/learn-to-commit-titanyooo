@@ -27,15 +27,15 @@ ________________________________________________________________________________
  * Test
 **/
 
-    public class Test{
+public class Test{
     public static void main(String[] args){
     
         System.out.println("An Emergency Broadcast");
     
     }//End method main
-    
-    }//End class Test
+}//End class Test
 ```
+
 ``` javascript
 # 1.3
 /** 
@@ -45,8 +45,7 @@ ________________________________________________________________________________
  * Titan’s Info
 **/
 
-    public class Info{
-    
+public class Info{
     public static void main (String[] args){
     
         System.out.println("Name: Titan Lam");
@@ -58,9 +57,9 @@ ________________________________________________________________________________
         System.out.println("Favorite Movie: Nightmare Before Christmas");
         
     }// End method main
-    
-    }// End class Info
+}// End class Info
 ```
+
 ``` javascript
 # 1.4
 /**
@@ -70,16 +69,15 @@ ________________________________________________________________________________
  * Quote
 **/ 
 
-    public class Quote{
-
+public class Quote{
     public static void main (String[] args){
     
     System.out.println ("\"Doubt everything. Find your own light.\" - Gautama Buddha");
 
     }// End method main
-    
-    }// End class Test
+}// End class Test
 ```
+
 ``` javascript
 # 1.5
 /** 
@@ -89,8 +87,7 @@ ________________________________________________________________________________
  * Revisit 1.3
 **/
 
-    public class Revisit{
-
+public class Revisit{
     public static void main (String[] args){
     
     System.out.println("Nickname:\"Cypher\"");
@@ -102,8 +99,7 @@ ________________________________________________________________________________
     System.out.println("Favorite Movie: \"Nightmare Before Christmas\"");
     
     }// End method main
-    
-    }// End class Revisit
+}// End class Revisit
 ```
 ``` javascript
 # 1. Extra 
