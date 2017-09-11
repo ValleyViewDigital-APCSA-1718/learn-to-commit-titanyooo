@@ -25,13 +25,14 @@ ________________________________________________________________________________
  * Test
 **/
 
-public class Test
-{
-    public static void main(String[] args)
-    {
+    public class Test{
+    public static void main(String[] args){
+    
         System.out.println("An Emergency Broadcast");
+    
     }//End method main
-}//End class Test
+    
+    }//End class Test
 
 # 1.3
 /** 
@@ -41,10 +42,10 @@ public class Test
  * Titan’s Info
 **/
 
-public class Info
-{
-    public static void main (String[] args)
-    {
+    public class Info{
+    
+    public static void main (String[] args){
+    
         System.out.println("Name: Titan Lam");
         
         System.out.println("Birthday: November 7, 2000");
@@ -55,7 +56,7 @@ public class Info
         
     }// End method main
     
-}// End class Info
+    }// End class Info
 
 # 1.4
 /**
@@ -65,15 +66,15 @@ public class Info
  * Quote
 **/ 
 
-public class Quote
-{
+    public class Quote{
+
     public static void main (String[] args){
     
     System.out.println ("\"Doubt everything. Find your own light.\" - Gautama Buddha");
 
     }// End method main
     
-}// End class Test
+    }// End class Test
 
 # 1.5
 /** 
@@ -83,8 +84,8 @@ public class Quote
  * Revisit 1.3
 **/
 
-public class Revisit
-{
+    public class Revisit{
+
     public static void main (String[] args){
     
     System.out.println("Nickname:\"Cypher\"");
@@ -97,7 +98,7 @@ public class Revisit
     
     }// End method main
     
-}// End class Revisit
+    }// End class Revisit
 
 # 1. Extra 
 /**
@@ -106,8 +107,8 @@ public class Revisit
  * 8/16/17
  * Large Block Letters
 **/ 
-public class Test
-{
+    public class Test{
+
     public static void main (String[] args){
     
     System.out.println ("TTTTTTTTTTTTTTTTTTT    LLLLL");
@@ -126,14 +127,13 @@ public class Test
     
     System.out.println ("       TTTT            LLLLL");
     
-    
     System.out.println ("       TTTT            LLLLLLLLLLLLLLL");
     
     System.out.println ("       TTTT            LLLLLLLLLLLLLLL");
     
     }// End method main
 
-}// End class Test
+    }// End class Test
 
 
 
