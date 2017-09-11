@@ -46,10 +46,15 @@ public class Info
     public static void main (String[] args)
     {
         System.out.println("Name: Titan Lam");
+        
         System.out.println("Birthday: November 7, 2000");
+        
         System.out.println("Favorite Book: Looking for Alaska");
+        
         System.out.println("Favorite Movie: Nightmare Before Christmas");
+        
     }// End method main
+    
 }// End class Info
 
 # 1.4
@@ -62,11 +67,12 @@ public class Info
 
 public class Quote
 {
-    public static void main (String[] args)
-    {
+    public static void main (String[] args){
+    
     System.out.println ("\"Doubt everything. Find your own light.\" - Gautama Buddha");
 
     }// End method main
+    
 }// End class Test
 
 # 1.5
@@ -79,13 +85,18 @@ public class Quote
 
 public class Revisit
 {
-    public static void main (String[] args)
-    {
-        System.out.println("Nickname:\"Cypher\"");
-        System.out.println("Birthday: 11\\07\\2000");
-        System.out.println("Favorite Book: \'Looking for Alaska\'");
-        System.out.println("Favorite Movie: \"Nightmare Before Christmas\"");
+    public static void main (String[] args){
+    
+    System.out.println("Nickname:\"Cypher\"");
+    
+    System.out.println("Birthday: 11\\07\\2000");
+    
+    System.out.println("Favorite Book: \'Looking for Alaska\'");
+    
+    System.out.println("Favorite Movie: \"Nightmare Before Christmas\"");
+    
     }// End method main
+    
 }// End class Revisit
 
 # 1. Extra 
@@ -97,19 +108,31 @@ public class Revisit
 **/ 
 public class Test
 {
-    public static void main (String[] args)
-    {
+    public static void main (String[] args){
+    
     System.out.println ("TTTTTTTTTTTTTTTTTTT    LLLLL");
+    
     System.out.println ("TTTTTTTTTTTTTTTTTTT    LLLLL");
+    
     System.out.println ("       TTTT            LLLLL");
+    
     System.out.println ("       TTTT            LLLLL");
+    
     System.out.println ("       TTTT            LLLLL");
+    
     System.out.println ("       TTTT            LLLLL");
+    
     System.out.println ("       TTTT            LLLLL");
+    
     System.out.println ("       TTTT            LLLLL");
+    
+    
     System.out.println ("       TTTT            LLLLLLLLLLLLLLL");
+    
     System.out.println ("       TTTT            LLLLLLLLLLLLLLL");
+    
     }// End method main
+
 }// End class Test
 
 
