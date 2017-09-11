@@ -112,23 +112,14 @@ ________________________________________________________________________________
     public static void main (String[] args){
     
     System.out.println ("TTTTTTTTTTTTTTTTTTT    LLLLL");
-    
     System.out.println ("TTTTTTTTTTTTTTTTTTT    LLLLL");
-    
     System.out.println ("       TTTT            LLLLL");
-    
     System.out.println ("       TTTT            LLLLL");
-    
     System.out.println ("       TTTT            LLLLL");
-    
     System.out.println ("       TTTT            LLLLL");
-    
     System.out.println ("       TTTT            LLLLL");
-    
     System.out.println ("       TTTT            LLLLL");
-    
     System.out.println ("       TTTT            LLLLLLLLLLLLLLL");
-    
     System.out.println ("       TTTT            LLLLLLLLLLLLLLL");
     
     }// End method main
